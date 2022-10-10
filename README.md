@@ -71,7 +71,7 @@ During installation, mysql installer ask root password that is "mysql" only
 	(Select the menu option as 'Execute SQL script')
 
 
-#### Run the java jar
+#### Unzip both lib 'zip' file and Run the java jar
 
 6. execute TileApps.jar  
 
